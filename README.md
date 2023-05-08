@@ -52,4 +52,8 @@ THEN I am taken to the corresponding section of the README
 
 ## Deployed Application
 
+https://ss0110.github.io/professional-readme-generator/
+
 ## GitHub
+
+https://github.com/Ss0110/professional-readme-generator
